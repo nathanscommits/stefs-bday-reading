@@ -125,6 +125,17 @@ body::before {
   text-transform: uppercase;
 }
 
+/* Cake Image */
+.cake-image {
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.cake-image img {
+  width: 80px;
+  height: auto;
+}
+
 /* ==========================================================================
    Audio Player
    ========================================================================== */
